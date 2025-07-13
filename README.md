@@ -17,15 +17,17 @@ This repository is a personal learning resource and a practical guide for anyone
 
 The repository is structured into folders based on core DSA concepts:
 
-- 📁 **Arrays**
-- 📁 **Linked Lists**
-- 📁 **Stacks & Queues**
-- 📁 **Trees** (Binary Tree, BST, etc.)
-- 📁 **Graphs** (BFS, DFS, Dijkstra, etc.)
-- 📁 **Searching & Sorting**
-- 📁 **Recursion & Backtracking**
-- 📁 **Dynamic Programming**
-- 📁 **Greedy Algorithms**
-- 📁 **Heaps, Tries, Hashing**
+- Arrays, Strings
+- Linked Lists (Singly, Doubly, Circular)
+- Stacks & Queues (using arrays and STL)
+- Trees & Binary Search Trees
+- Graph Algorithms (BFS, DFS, Dijkstra)
+- Searching & Sorting Techniques
+- Recursion & Backtracking
+- Dynamic Programming
+- Hashing, Heaps, Tries, Sliding Window
+- Greedy Algorithms
+- Bit Manipulation
+
 
 > New topics and problems are added regularly. Stay tuned!!!
